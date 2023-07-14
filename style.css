@@ -7,11 +7,9 @@ html, body {
 body {
   padding: 20px;
 }
-#filelist {
-  width: 400px;
-  height: 600px;
-  float: right;
-  border: 1px solid blue;
+#ifm iframe {
+  margin: 0 auto;
+  display: block;
 }
 #output {
   width: 400px;
